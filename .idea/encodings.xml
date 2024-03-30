@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/server/opencbs-bonds/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-borrowings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-savings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/opencbs-term-deposits/src/main/java" charset="UTF-8" />
+  </component>
+</project>

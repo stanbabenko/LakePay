@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="opencbs-savings" />
+        <module name="opencbs-core" />
+        <module name="opencbs-term-deposits" />
+        <module name="opencbs-server" />
+        <module name="opencbs-bonds" />
+        <module name="opencbs-loans" />
+        <module name="opencbs-borrowings" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
